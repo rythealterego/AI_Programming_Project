@@ -1,4 +1,4 @@
-# AI-CLASS
+# AI_PROGRAMMG PROJECT
 
 ## Author
 **Name:** Ryan Gakinya  
