@@ -16,22 +16,14 @@ This project demonstrates essential Python programming concepts required in AI d
 - json — data storage and exchange  
 - datetime — timestamps and date handling  
 
-## Project Structure
-AI_Programming_Project/
-│
-├── README.md
-├── main.py
-├── utils/
-│   ├── file_handler.py
-│   ├── helpers.py
-│
-├── data/
-│   ├── students.json
-│
-└── screenshots/
-    └── sample_output.png
 
 ## How to Run the Code
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/AI_Programming_Project.git
+
+1. Download or clone this repository to your computer.
+2. Open the folder in Visual Studio Code.
+3. Make sure Python 3 is installed on your computer.
+4. Open a terminal in VS Code.
+5. Navigate into the chatbot folder:  cd chatbot
+6. Run the program using:  python main.py
+7. Type your questions in the terminal and the chatbot will respond.
+
